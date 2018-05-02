@@ -1,5 +1,5 @@
 ---
-title: 中文翻译Neural Networks Part 1: Setting up the Architecture
+title: Neural Networks Part 1: Setting up the Architecture
 layout: post
 date: 2018-05-02
 ---
